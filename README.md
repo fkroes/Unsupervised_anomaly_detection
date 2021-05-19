@@ -1,4 +1,4 @@
-# Unsupervised_anomaly_detection
+# Unsupervised Deep Transaction Anomaly Detection
 
 
 The code for my thesis can be found in this repository. 
